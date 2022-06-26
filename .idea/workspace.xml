@@ -37,6 +37,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -138,10 +143,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StateTest" />
         <item itemvalue="Application.WindowTest2" />
-        <item itemvalue="Application.test" />
         <item itemvalue="Application.TransformationT" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.StateTest" />
         <item itemvalue="Application.SourceCustomTest" />
       </list>
     </recent_temporary>
@@ -191,7 +196,7 @@
       <workItem from="1656034069228" duration="1811000" />
       <workItem from="1656163154532" duration="1386000" />
       <workItem from="1656245862283" duration="164000" />
-      <workItem from="1656246248588" duration="3177000" />
+      <workItem from="1656246248588" duration="4300000" />
     </task>
     <task id="LOCAL-00001" summary="first-commit">
       <created>1656249441318</created>
@@ -200,15 +205,42 @@
       <option name="project" value="LOCAL" />
       <updated>1656249441318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second-commit">
+      <created>1656249826192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656249826192</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third-commit">
+      <created>1656249979205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656249979205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first-commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first-commit" />
+    <MESSAGE value="second-commit" />
+    <MESSAGE value="third-commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third-commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="261" y="0" key="#Inspections" timestamp="1654273975369">
@@ -223,10 +255,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="530" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1655994532107" />
-    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1656249963733">
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1656251543416">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1656249963733" />
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1656251543416" />
     <state x="348" y="93" key="FileChooserDialogImpl" timestamp="1656249110970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
