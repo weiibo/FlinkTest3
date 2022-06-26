@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6ec0613-e81e-4b8e-a76b-392aff31c59b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlinkTest1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet02/BatchWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet02/BoundeStreamWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/ClickSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/SourceCustomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/SourceKafkaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/TransformationT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/WindowAggregateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/WindowTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/WindowTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet05/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet09/StateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/liu/chapet09/TwoSteramJoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/FlinkTest1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet02/BatchWordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet02/BoundeStreamWordCount$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet02/BoundeStreamWordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/ClickSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/Event.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/SourceCustomTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/SourceCustomTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/SourceKafkaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/TransformationT$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/TransformationT$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/TransformationT$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/TransformationT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowAggregateTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowAggregateTest$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowAggregateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest1$3$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest1$3$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest2$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest2$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/WindowTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet05/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet09/StateTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet09/StateTest$MyFlatmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/liu/chapet09/StateTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FlinkTest1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29QcSY7NEMqSyzCMvJpPHnxsoFF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.liu.chapet09" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StateTest">
+    <configuration name="SourceCustomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liu.chapet05.SourceCustomTest" />
+      <module name="FlinkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.chapet05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liu.chapet09.StateTest" />
+      <module name="FlinkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.chapet09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransformationT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liu.chapet05.TransformationT" />
+      <module name="FlinkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.chapet05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liu.chapet05.WindowTest2" />
+      <module name="FlinkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.chapet05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liu.chapet05.test" />
+      <module name="FlinkTest1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liu.chapet05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StateTest" />
+        <item itemvalue="Application.WindowTest2" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.TransformationT" />
+        <item itemvalue="Application.SourceCustomTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6ec0613-e81e-4b8e-a76b-392aff31c59b" name="Default Changelist" comment="" />
+      <created>1653048749489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653048749489</updated>
+      <workItem from="1653048752887" duration="2663000" />
+      <workItem from="1653210024928" duration="3731000" />
+      <workItem from="1653227062600" duration="600000" />
+      <workItem from="1653232070534" duration="1219000" />
+      <workItem from="1653485447992" duration="4636000" />
+      <workItem from="1653569947807" duration="4426000" />
+      <workItem from="1653657831886" duration="614000" />
+      <workItem from="1653917727116" duration="1675000" />
+      <workItem from="1654221151084" duration="3294000" />
+      <workItem from="1654270991409" duration="12706000" />
+      <workItem from="1654356212810" duration="608000" />
+      <workItem from="1654514796452" duration="1278000" />
+      <workItem from="1654610169209" duration="375000" />
+      <workItem from="1654779205153" duration="599000" />
+      <workItem from="1654827938404" duration="2396000" />
+      <workItem from="1654951517877" duration="599000" />
+      <workItem from="1655729864361" duration="599000" />
+      <workItem from="1655869258164" duration="599000" />
+      <workItem from="1655973846908" duration="3136000" />
+      <workItem from="1655992591785" duration="1996000" />
+      <workItem from="1656034069228" duration="1811000" />
+      <workItem from="1656163154532" duration="1386000" />
+      <workItem from="1656245862283" duration="164000" />
+      <workItem from="1656246248588" duration="2698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Inspections" timestamp="1654273975369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1654273975369" />
+    <state x="261" y="0" key="#Project_Structure" timestamp="1654222510361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1654222510361" />
+    <state x="530" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1655994532107">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1655994532107" />
+    <state x="276" y="0" key="CommitChangelistDialog2" timestamp="1656249357956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="276" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1656249357956" />
+    <state x="348" y="93" key="FileChooserDialogImpl" timestamp="1656249110970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="93" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1656249110970" />
+    <state width="1483" height="133" key="GridCell.Tab.0.bottom" timestamp="1655979116764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1655979116764" />
+    <state width="1483" height="133" key="GridCell.Tab.0.center" timestamp="1655979116764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="133" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1655979116764" />
+    <state width="1483" height="133" key="GridCell.Tab.0.left" timestamp="1655979116763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="133" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1655979116763" />
+    <state width="1483" height="133" key="GridCell.Tab.0.right" timestamp="1655979116764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="133" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1655979116764" />
+    <state width="1483" height="73" key="GridCell.Tab.1.bottom" timestamp="1654280075335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="73" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654280075335" />
+    <state width="1483" height="73" key="GridCell.Tab.1.center" timestamp="1654280075335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="73" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1654280075335" />
+    <state width="1483" height="73" key="GridCell.Tab.1.left" timestamp="1654280075335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="73" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1654280075335" />
+    <state width="1483" height="73" key="GridCell.Tab.1.right" timestamp="1654280075335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="73" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1654280075335" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1656249023165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1656249023165" />
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1655974519924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1655974519924" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liu/chapet05/WindowTest2.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/liu/chapet05/WindowAggregateTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
