@@ -12,7 +12,7 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import java.time.Duration;
 
 public class TwoSteramJoinTest {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();
         env.setParallelism(1);
         SingleOutputStreamOperator<Tuple3<String,String,Long>> source = env.fromElements(new Tuple3("a", "stream_1", 100l),
@@ -25,6 +25,8 @@ public class TwoSteramJoinTest {
                         return stringStringLongTuple3.f2;
                     }
                 }));
+        tuple3SingleOutputStreamOperator.keyBy(data->data.f0).print();
+        env.execute();
 
     }
 }
